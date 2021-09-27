@@ -7,6 +7,7 @@
     arr db 50 dup(?)
     newLine db 0ah, 0dh, "$"
     prompt1 db "Enter num of elements: $"
+    prompt2 db 0ah, 0dh, "Sorted Array: $"
 
 .code
     main proc
@@ -133,6 +134,10 @@
 
 
         ;Print part starts
+
+        lea dx, prompt2
+        mov ah, 9
+        int 21h
 
         mov bl, 10
         xor ch, ch
