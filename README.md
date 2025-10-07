@@ -200,5 +200,3 @@ program_name.exe
 ## License
 
 This repository is for **educational purposes** and may be freely used and modified for learning Assembly Language programming.
-
-```

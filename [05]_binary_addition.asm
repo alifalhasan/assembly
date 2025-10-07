@@ -4,6 +4,9 @@
 ;   Reads two binary numbers (entered as 0s and 1s, separated by Enter),
 ;   adds them, and displays both numbers and their binary sum.
 ; Environment: 8086 Assembly (MASM/TASM), DOS interrupts (int 21h)
+;
+; Author: Alif Al Hasan
+; Assembler: MASM/TASM compatible
 ; ============================================================
 
 .MODEL SMALL

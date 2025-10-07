@@ -4,6 +4,9 @@
 ;   Reads two single-digit numbers from keyboard (input format: a b)
 ;   and prints their sum in the format "a + b = c".
 ; Environment: 8086 Assembly (MASM/TASM), DOS interrupts (int 21h)
+;
+; Author: Alif Al Hasan
+; Assembler: MASM/TASM compatible
 ; ============================================================
 
 .MODEL SMALL

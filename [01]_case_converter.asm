@@ -6,6 +6,9 @@
 ;   - If input is uppercase (A–Z), converts it to lowercase.
 ;   - Otherwise, prints an invalid input message.
 ; Environment: 8086 Assembly (MASM/TASM), DOS interrupts (int 21h)
+;
+; Author: Alif Al Hasan
+; Assembler: MASM/TASM compatible
 ; ============================================================
 
 .model small

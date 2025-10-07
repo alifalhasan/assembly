@@ -6,6 +6,9 @@
 ;   is then displayed.
 ;
 ;   Uses stack to reverse string characters.
+;
+; Author: Alif Al Hasan
+; Assembler: MASM/TASM compatible
 ;-------------------------------------------------------------
 
 .model small

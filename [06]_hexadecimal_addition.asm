@@ -1,8 +1,9 @@
 ;-------------------------------------------------------------
 ; Program: Add Two Hexadecimal Numbers
-; Description: This program reads two hexadecimal numbers from
-;              the user, adds them, and displays the binary
-;              representation of their sum.
+; Description: 
+;   This program reads two hexadecimal numbers from
+;   the user, adds them, and displays the binary
+;   representation of their sum.
 ; 
 ; Author: Alif Al Hasan
 ; Assembler: MASM/TASM compatible

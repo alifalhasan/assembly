@@ -5,8 +5,8 @@
 ;   (one character at a time) and prints the last 10 characters
 ;   of that string in reverse order.
 ;
-;   The program uses the stack to temporarily store all 25
-;   characters, then pops the last 10 entries for reverse output.
+;  The program uses the stack to temporarily store all 25
+;  characters, then pops the last 10 entries for reverse output.
 ;
 ; Author: Alif Al Hasan
 ; Assembler: MASM/TASM compatible

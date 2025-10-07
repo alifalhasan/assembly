@@ -5,6 +5,9 @@
 ;   in hexadecimal format (e.g., 'A' → 41h). 
 ;   Pressing Enter (carriage return) exits the program.
 ; Environment: 8086 Assembly (MASM/TASM), DOS interrupts (int 21h)
+;
+; Author: Alif Al Hasan
+; Assembler: MASM/TASM compatible
 ; ============================================================
 
 .MODEL SMALL

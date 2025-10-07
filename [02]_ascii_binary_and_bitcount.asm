@@ -5,6 +5,9 @@
 ;   - Displays its ASCII code in 8-bit binary form.
 ;   - Counts and prints the number of '1' bits in that ASCII value.
 ; Environment: 8086 Assembly (MASM/TASM), DOS interrupts (int 21h)
+;
+; Author: Alif Al Hasan
+; Assembler: MASM/TASM compatible
 ; ============================================================
 
 .MODEL SMALL

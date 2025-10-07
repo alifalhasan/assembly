@@ -7,7 +7,7 @@
 ;   The input numbers are entered one by one as characters.
 ;   The program uses bubble sort-like logic for sorting.
 ;
-; Author: [Your Name]
+; Author: Alif Al Hasan
 ; Assembler: MASM/TASM compatible
 ;-------------------------------------------------------------
 
